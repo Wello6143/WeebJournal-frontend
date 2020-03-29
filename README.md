@@ -12,7 +12,7 @@ You'll need git, NodeJS (latest LTS version), yarn installed. You should use UNI
 
 Setting up NodeJS for: 
 
-* Ubuntu (also works on WSL): `sudo apt install curl -y && curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -`. Do not use NodeJS version from Ubuntu.
+* Ubuntu (also works on WSL): `sudo apt install curl -y && curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -`. Do not use NodeJS from Ubuntu.
 
 * Fedora/RHEL/CentOS: `sudo dnf install -y gcc-c++ make && curl -sL https://rpm.nodesource.com/setup_12.x | sudo -E bash -`
 
